@@ -1,2 +1,2 @@
 # BootstrapPortfolio
-Welcome to git and github fundamentalso
+Welcome to git and github fundamentals
